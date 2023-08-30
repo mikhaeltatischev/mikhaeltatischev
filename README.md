@@ -44,5 +44,5 @@ I am a Backend Developer :desktop_computer: from Russia.
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mikhaeltatischev&theme=dark&background=000000)](https://git.io/streak-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhaeltatischev&hide_progress=true&theme=dark&background=000000)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mikhaeltatischev&theme=dark&background=040404)](https://git.io/streak-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhaeltatischev&theme=dark&background=000000)
