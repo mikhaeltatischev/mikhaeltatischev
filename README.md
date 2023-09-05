@@ -22,16 +22,16 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="600" height="400"/>
 </div>
 
-### :man_technologist: About Me :
+### About Me :
 I am a Backend Developer :desktop_computer: from Russia.
 
-- :telescope: I am a programmer and contributing backend development for building web applications, microservices, desktop applications.
+- I am a programmer and contributing backend development for building web applications, microservices, desktop applications.
 
-- :seedling: Exploring Technical Content Writing.
+- Exploring Technical Content Writing.
 
-- :zap: In my free time, I read tech articles and developing my pet projects.
+- In my free time, I read tech articles and developing my pet projects.
 
-- :mailbox:How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white")](https://t.me/Mikkchael)
+- How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white")](https://t.me/Mikkchael)
 
 - ### :hammer_and_wrench: Languages and Tools :
 <div>
