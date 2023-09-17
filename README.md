@@ -22,7 +22,7 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="600" height="400"/>
 </div>
 
-### About Me :
+### About Me:
 I am a Backend Developer :desktop_computer: from Russia.
 
 - I am a programmer and contributing backend development for building web applications, microservices, desktop applications.
