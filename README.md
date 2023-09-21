@@ -22,7 +22,7 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="600" height="400"/>
 </div>
 
-### About Me:  
+### About Me:
 I am a Backend Developer :desktop_computer: from Russia.
 
 - I am a programmer and contributing backend development for building web applications, microservices, desktop applications.
@@ -33,7 +33,7 @@ I am a Backend Developer :desktop_computer: from Russia.
 
 - How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white")](https://t.me/Mikkchael)
 
-- ### :hammer_and_wrench: Languages and Tools:  
+- ### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -44,5 +44,5 @@ I am a Backend Developer :desktop_computer: from Russia.
 </div>
 
 ### :fire: My Stats:
-![GitHub Streak](https://streak-stats.demolab.com/?user=mikhaeltatischev&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhaeltatischev&theme=dark&background=000000)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mikhaeltatischev&theme=dark)](https://git.io/streak-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhaeltatischev&theme=dark)
