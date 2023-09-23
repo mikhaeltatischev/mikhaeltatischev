@@ -6,7 +6,7 @@
     <a href="https://t.me/Mikkchael">
        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-</div>
+</div>  
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mikhaeltatischev&style=flat-square&color=blue" alt=""/>
@@ -33,7 +33,7 @@ I am a Backend Developer :desktop_computer: from Russia.
 
 - How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white")](https://t.me/Mikkchael)
 
-- ### :hammer_and_wrench: Languages and Tools:
+- ### :hammer_and_wrench: Languages and Tools:  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
