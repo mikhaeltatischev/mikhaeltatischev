@@ -12,10 +12,10 @@
   <img src="https://komarev.com/ghpvc/?username=mikhaeltatischev&style=flat-square&color=blue" alt=""/>
 </div>
 
+<h1 align="center">I'm <a href="https://t.me/Mikkchael" target="_blank">Mikhail Tatischev</a> 
+
 <div align="center">
-  <h1>
     <img src="https://media.giphy.com/media/iDbDicWr95THaVsuIF/giphy.gif" width="150px"/>
-  </h1> 
 </div>
 
 <div align="center">
