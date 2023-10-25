@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFkc2UzbTN3eG8wa2c1Y3doaTVrcnZuZGpnMzBxZXY5dWY2Nm84NyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="190"/>
-</div>
+</div>  
 
 <div id="badges" align="center">
     <a href="https://t.me/Mikkchael">
