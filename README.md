@@ -32,7 +32,7 @@ I am a Backend Developer :desktop_computer: from Russia.
 - In my free time, I read tech articles and developing my pet projects.
 
 - How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white")](https://t.me/Mikkchael)
-  
+
 - ### :hammer_and_wrench: Languages and Tools:  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -40,5 +40,5 @@ I am a Backend Developer :desktop_computer: from Russia.
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhaeltatischev&theme=dark)
