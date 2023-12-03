@@ -32,7 +32,7 @@ I am a Backend Developer :desktop_computer: from Russia.
 - In my free time, I read tech articles and developing my pet projects.
 
 - How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white")](https://t.me/Mikkchael)
- 
+  
 - ### :hammer_and_wrench: Languages and Tools:  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
