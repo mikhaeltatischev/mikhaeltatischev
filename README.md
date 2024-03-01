@@ -42,8 +42,3 @@ I am a Backend Developer :desktop_computer: from Russia.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhaeltatischev&theme=dark)
-  
-   
-  
- 
- 
